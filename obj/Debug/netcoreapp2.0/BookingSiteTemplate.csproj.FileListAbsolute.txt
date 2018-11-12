@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\bin\Debug\netcoreapp2.0\BookingSiteTemplate.deps.json
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\bin\Debug\netcoreapp2.0\BookingSiteTemplate.runtimeconfig.json
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\bin\Debug\netcoreapp2.0\BookingSiteTemplate.runtimeconfig.dev.json
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\bin\Debug\netcoreapp2.0\BookingSiteTemplate.dll
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\bin\Debug\netcoreapp2.0\BookingSiteTemplate.pdb
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\obj\Debug\netcoreapp2.0\BookingSiteTemplate.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\obj\Debug\netcoreapp2.0\BookingSiteTemplate.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\obj\Debug\netcoreapp2.0\BookingSiteTemplate.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\obj\Debug\netcoreapp2.0\BookingSiteTemplate.AssemblyInfo.cs
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\obj\Debug\netcoreapp2.0\BookingSiteTemplate.dll
+C:\Users\david\Desktop\Home\Booking\back\bookingsitetemplate\obj\Debug\netcoreapp2.0\BookingSiteTemplate.pdb
